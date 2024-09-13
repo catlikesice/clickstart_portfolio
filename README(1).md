@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Oliver Killington</title>
+Oliver Killington
 </head>
 <body>
-<h1>Read here</h1>
-<p><b>This is a paragraph in bold type</b></p>
+<h1>About</h1>
+<p><b>Oliver Killington is a 25 year old British IT worker who has spent time living variously in Britain, North America and Germany.</b></p>
 </body>
 </html>
